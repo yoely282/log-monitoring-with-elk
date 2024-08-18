@@ -35,10 +35,11 @@ Save and exit the file.
 
 # Step 2: Configure Filebeat
 
-Open the Filebeat configuration file:
+- Open the Filebeat configuration file:
 
- bash
-  sudo nano /etc/filebeat/filebeat.yml
+
+sudo nano /etc/filebeat/filebeat.yml
+
 
 Add the following input configuration:
 
