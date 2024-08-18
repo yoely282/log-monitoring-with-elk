@@ -92,7 +92,7 @@ Select the filebeat-* index pattern.
 Use the search bar to filter logs by type or other criteria:
 fields.log_type: "new_custom_log"
 
-Visualizations and Dashboards (Optional)
+# Visualizations and Dashboards (Optional)
 
 Create Visualizations
 * Navigate to Visualize Library.
